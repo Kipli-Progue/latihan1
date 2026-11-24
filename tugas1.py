@@ -50,3 +50,5 @@ while True:
     else:
         print("-------------Program Selesai-------------")
         break
+
+print ("Terima Kasih Telah Menggunakan Program Ini")
